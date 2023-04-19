@@ -1,0 +1,26 @@
+{
+  "name": "altv-joaat-renamer",
+  "version": "1.0.0",
+  "description": "This script renames all files in `models` directory with their JOAAT hash as the new file name.",
+  "main": "rename.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LonoxX/altv-joaat-renamer.git"
+  },
+  "keywords": [
+    "AltV, Alt:V, GTA V, GTA5, GTAV, GTA,JOAAT"
+  ],
+  "author": "LonoxX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LonoxX/altv-joaat-renamer/issues"
+  },
+  "homepage": "https://github.com/LonoxX/altv-joaat-renamer#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
